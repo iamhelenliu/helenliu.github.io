@@ -7,11 +7,12 @@
   </url>
   
   <url>
-    <loc>http://helenliu.me/cv/</loc>
+    <loc>http://helenliu.me/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://helenliu.me/categories/</loc>
+    <loc>http://helenliu.me/cv/</loc>
     <priority>0</priority>
   </url>
   
