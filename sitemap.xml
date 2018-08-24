@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://helenliu.me/about/</loc>
-  </url>
-  
-  <url>
     <loc>http://helenliu.me/categories/</loc>
     <priority>0</priority>
   </url>
