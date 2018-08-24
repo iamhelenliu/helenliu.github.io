@@ -20,14 +20,5 @@
       <description>Insert Lead paragraph here.**</description>
     </item>
     
-    <item>
-      <title>New Test Post</title>
-      <link>http://helenliu.me/blog/new-test-post/</link>
-      <pubDate>Sat, 18 Aug 2018 00:53:00 +0800</pubDate>
-      
-      <guid>http://helenliu.me/blog/new-test-post/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
